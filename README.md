@@ -47,3 +47,11 @@ Clone or download the repo, then open the latest version in your browser:
 git clone https://github.com/endritngjelina/Typing-Speed.git
 cd Typing-Speed
 open "typing speed 7.html"
+
+
+***
+
+### Quick Tips
+- Add **Topics** in GitHub's About settings like `typing-speed`, `wpm`, `vanilla-js`, `typing-test` for better discoverability.[1]
+- Enable **GitHub Pages** (Settings → Pages → main branch) to host a live demo and link it in the About field.[2]
+- Update the **Version History table** with the actual changes per file if you recall them — it makes the repo look much more professional to visitors.[3]
